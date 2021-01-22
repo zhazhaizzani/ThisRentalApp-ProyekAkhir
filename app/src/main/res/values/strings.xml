@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">This Rental</string>
+    <string name="nama_penyewa">Nama Penyewa </string>
+    <string name="alamat">Alamat </string>
+    <string name="no_telp_hp">No. Telp/HP </string>
+    <string name="merk_kendaraan">Merk Kendaraan </string>
+    <string name="lama_sewa">Lama Sewa </string>
+    <string name="rp_500000">rp_500000</string>
+    <string name="total_harga">total_harga</string>
+    <string name="rp_350000">rp_350000</string>
+    <string name="this_rental">This Rental</string>
+    <string name="informasi_kendaraan">INFORMASI KENDARAAN</string>
+    <string name="sewa_kendaraan">SEWA KENDARAAN</string>
+    <string name="tambah_penyewa">Tambah Penyewa</string>
+    <string name="harga">Harga :</string>
+    <string name="promo">Promo :</string>
+    <string name="identitas_penyewa">IDENTITAS PENYEWA</string>
+    <string name="penyewa">Penyewa</string>
+    <string name="_021">021</string>
+    <string name="data_kendaraan">Data Kendaraan</string>
+    <string name="pajero">Pajero</string>
+    <string name="_2_hari">2 Hari</string>
+    <string name="rp_100_000">Rp. 100.000</string>
+    <string name="harga_sewa">Harga Sewa :</string>
+    <string name="todo">TODO</string>
+    <string name="masukkan_alamat_anda">Masukkan Alamat Anda</string>
+    <string name="masukkan_no_telp_hp">Masukkan No. Telp/HP</string>
+    <string name="weekday_10">Weekday (10%)</string>
+    <string name="weekend_25">Weekend (25%)</string>
+    <string name="masukkan_lamanya_hari_penyewaan">Masukkan Lamanya Penyewaan</string>
+    <string name="selesai">Selesai</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+</resources>
